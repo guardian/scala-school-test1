@@ -1,4 +1,4 @@
-name := "scala-school-test1"
+name := """scala-school-test1"""
 
 organization := "com.gu"
 
